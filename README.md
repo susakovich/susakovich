@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @susakovich
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript Front-end web development
+- 👀 I’m interested in Web Development, AI, Machine Learning
+- 🌱 I’m currently learning Python Development
 
 <!---
 susakovich/susakovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

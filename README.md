@@ -2,8 +2,7 @@
 
 - I am husband, father and developer! 👨‍👩‍👧💖 <img width="350" align="right" src="https://user-images.githubusercontent.com/95968602/159444866-ce4fe306-f250-4233-9a90-5d5d57f04e7f.jpg"/>
 - Currently working as network administrator for internet provider company. 🖥🖱🌍 
-
-- I’m interested in CyberSecurity, AI and machine learning, Data analytics. 🕵👨🏻‍💻👀 
+- I’m interested in CyberSecurity, AI and machine learning, Web Development. 🕵👨🏻‍💻👀 
 - I’m currently learning Python. 🐍🌱📚
 - Loves a freshly brewed cup of coffee. ☕
 - Gym lover. 🏋️🏃‍♂️

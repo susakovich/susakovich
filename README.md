@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @susakovich
+- Hi there 👋
+- Loves a freshly brewed cup of coffee
 - 👀 I’m interested in Web Development, AI, Machine Learning
 - 🌱 I’m currently learning Python 🐍
 

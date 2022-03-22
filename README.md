@@ -1,7 +1,8 @@
 <h1> Hello World, I am Danijel Susaković 👋 </h1>
 
-- I am husband, father and developer! 👨‍👩‍👧💖
-- Currently working as network administrator for internet provider company. 🖥🖱🌍
+- I am husband, father and developer! 👨‍👩‍👧💖 <img width="350" align="right" src="https://user-images.githubusercontent.com/95968602/159444866-ce4fe306-f250-4233-9a90-5d5d57f04e7f.jpg"/>
+- Currently working as network administrator for internet provider company. 🖥🖱🌍 
+
 - I’m interested in CyberSecurity, AI and machine learning, Data analytics. 🕵👨🏻‍💻👀 
 - I’m currently learning Python. 🐍🌱📚
 - Loves a freshly brewed cup of coffee. ☕
@@ -13,6 +14,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />

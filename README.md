@@ -1,5 +1,5 @@
 <h1> Hello World, I am Danijel Susaković 👋 </h1>
-<h2> <img width="350" align="right" src="https://user-images.githubusercontent.com/95968602/187403706-c4216c58-4efa-41fc-8568-2f4e6bb8ed0f.jpg"/> </h2>
+<h2> <img width="350" align="right" src="https://user-images.githubusercontent.com/95968602/187404786-3c59256a-1361-4c77-9d76-3f2735531fa6.jpg"/> </h2>
 
 - I am husband, father and developer! 👨‍👩‍👧💖 
 - Currently working as network administrator for internet provider company. 🖥🖱🌍 

@@ -9,6 +9,7 @@
 - Gym lover. 🏋️🏃‍♂️
 - “Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.” 🏠💻
 <h2><br><br></h2>
+![dado](https://user-images.githubusercontent.com/95968602/187409212-20f1d0d1-cecc-4060-81a3-0aaa7488a65b.png)
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

@@ -1,5 +1,5 @@
 <h1> Hello World, I am Danijel Susaković 👋 </h1>
-<h2> <img width="350" align="right" src="https://user-images.githubusercontent.com/95968602/187404786-3c59256a-1361-4c77-9d76-3f2735531fa6.jpg"/> </h2>
+<h2> <img width="350" align="right" src="https://user-images.githubusercontent.com/95968602/187409534-115c1f3e-ad41-4e8d-be6b-69da08cbc4fb.png"/> </h2>
 
 - I am husband, father and developer! 👨‍👩‍👧💖 
 - Currently working as network administrator for internet provider company. 🖥🖱🌍 
@@ -8,7 +8,6 @@
 - Loves a freshly brewed cup of coffee. ☕
 - Gym lover. 🏋️🏃‍♂️
 - “Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.” 🏠💻
-<h2> <img width="350" align="right" src="https://user-images.githubusercontent.com/95968602/187404786-3c59256a-1361-4c77-9d76-3f2735531fa6.jpg"/> </h2>
 <h2><br><br></h2>
 
 ### Languages and Tools:

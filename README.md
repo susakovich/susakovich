@@ -40,9 +40,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript
 </h2>
 
 
-<!--START_SECTION:activity-->
-
-
 <!---
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=susakovich)](https://github.com/anuraghazra/github-readme-stats)
 

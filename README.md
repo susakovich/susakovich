@@ -1,4 +1,9 @@
-<h1> Hello World, I am Danijel Susaković 👋 </h1>
+<h1> Hello World 👋🌍 </h1>
+
+```js
+const firstName = "Danijel";
+const lastName = "Susakovic";
+```
 <h2> <img width="350" align="right" src="https://user-images.githubusercontent.com/95968602/187409534-115c1f3e-ad41-4e8d-be6b-69da08cbc4fb.png"/> </h2>
 
 - I am husband, father and developer! 👨‍👩‍👧💖 
@@ -17,9 +22,6 @@
 
 <img align="left" alt="JavaScript" width="26px"
 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-
-
-
 <img align="left" alt="node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -28,26 +30,19 @@ src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 </br>
-</br>
+<h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img alig="center" src="https://github-readme-stats.vercel.app/api?username=susakovich&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img alig="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susakovich&layout=compact" />
+</a>
+</h2>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=susakovich&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</br>
-</br>
-
-
-
-
-
-
-
-
-
+<!--START_SECTION:activity-->
 
 <!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susakovich)](https://github.com/anuraghazra/github-readme-stats) --->
-<!---
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=susakovich)](https://github.com/anuraghazra/github-readme-stats)
 
 susakovich/susakovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

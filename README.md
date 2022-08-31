@@ -41,9 +41,11 @@ const lastName = "Susakovic";
       <table>
         <tr>
           <td align="center">
+           <a href="https://education.github.community/">
             <img align="center" width="190px" alt="Github Education Community" src="https://education.github.com/assets/campus_program-9372374f8cd435dafb8e725cb67ee73b587af7a9b2f176dfec968afe3b05338c.png" />
           </td>
           <td align="center">
+            <a href="https://github.com/EddieHubCommunity">
             <img align="center" width="190px"  alt="EddieHub Community" src="https://avatars.githubusercontent.com/u/66388388?s=280&v=4" />
             </a>
           </td>

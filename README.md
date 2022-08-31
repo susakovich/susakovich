@@ -38,15 +38,16 @@ const lastName = "Susakovic";
 <h2>
 </hr>
 </h2>
-<h2>
+<h2>GitHub Stats</h2>
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=susakovich&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susakovich&layout=compact" />
 </a>
-</h2>
-
+</p>
+<h2>Recent Activities</h2>
 <p align="center">
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=susakovich&theme=radical" />
 </p>

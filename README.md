@@ -34,33 +34,40 @@ const lastName = "Susakovic";
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   </p>
 
-<h2>
-</hr>
-</h2>
-<h2>GitHub Stats</h2>
-<p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=susakovich&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susakovich&layout=compact" />
-</a>
-</p>
-<h2>Recent Activities</h2>
-<p align="center">
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=susakovich&theme=radical" />
-</p>
-
-<h2></h2>
-
- <b>Affiliated Organizations and Communities</b>
- <br>
- <br>
-
-<h2>
- <img align="center" width="90px" alt="Github Education Community" src="https://education.github.com/assets/campus_program-9372374f8cd435dafb8e725cb67ee73b587af7a9b2f176dfec968afe3b05338c.png" />
- <img align="center" width="90px"  alt="EddieHub Community" src="https://avatars.githubusercontent.com/u/66388388?s=280&v=4" />
- </div>
+ <table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <strong> :octocat: I'm proud to be part of these organisations :octocat: </strong><br>
+      <table>
+        <tr>
+          <td align="center">
+            <img align="center" width="190px" alt="Github Education Community" src="https://education.github.com/assets/campus_program-9372374f8cd435dafb8e725cb67ee73b587af7a9b2f176dfec968afe3b05338c.png" />
+          </td>
+          <td align="center">
+            <img align="center" width="190px"  alt="EddieHub Community" src="https://avatars.githubusercontent.com/u/66388388?s=280&v=4" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center">
+      <img align="center" width="120%" src="https://github-readme-stats.vercel.app/api?username=susakovich&count_private=true&theme=tokyonight&show_icons=true" />
+    </td>
+  </tr>
+  <tr>
+          <td align="center">
+            <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susakovich&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+          </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=susakovich&theme=tokyonight">
+    </td>
+  </tr>
+</table>
+ 
+ 
+ 
+ 
+ 
 <!---
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=susakovich)](https://github.com/anuraghazra/github-readme-stats)
 

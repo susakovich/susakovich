@@ -17,10 +17,9 @@ const lastName = "Susakovic";
 <h2></h2>
 
 <div align="center">
-
 <br>
 <h3>Connect with me:</h3>
-<h4><img width="150" align="center" src="https://user-images.githubusercontent.com/95968602/187913400-b42c1373-39b5-4c04-865b-3b1b006f2a02.jpg"/></h4>
+<h4><img width="150" align="center" src="https://user-images.githubusercontent.com/95968602/187915292-ef1ab522-6c7d-46f3-8dd7-13ffbb842b00.jpg"/></h4>
 
 </br>
 <p align="center">

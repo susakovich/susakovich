@@ -52,11 +52,11 @@ let location = 'Bosnia and Herzegovina';
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=susakovich&show_icons=true&locale=en&layout=compact" alt="susakovich" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=susakovich&" alt="susakovich" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=susakovich&show_icons=true&locale=en" alt="susakovich" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=susakovich&show_icons=true&locale=en" alt="susakovich" /></p> <h2></h2>
+<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=susakovich&show_icons=true&locale=en&layout=compact" alt="susakovich" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susakovich&" alt="susakovich" /></p>
 
 
 <!---

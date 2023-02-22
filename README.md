@@ -1,81 +1,64 @@
-
 <h1> Hello World 👋🌍 </h1>
 
 ```js
-const firstName = "Danijel";
-const lastName = "Susakovic";
+const firstName = 'Danijel';
+const lastName = 'Susakovic';
+let location = 'Bosnia and Herzegovina';
 ```
 <h2> <img width="350" align="right" src="https://user-images.githubusercontent.com/95968602/187409534-115c1f3e-ad41-4e8d-be6b-69da08cbc4fb.png"/> </h2>
 
-- I am husband, father and developer! 👨‍👩‍👧💖 
-- Currently working as network administrator for internet provider company. 🖥🖱🌍 
-- I’m interested in Web Development. 🕵👨🏻‍💻👀 
-- I’m currently learning JS. ⭐️🌱📚
-- Loves a freshly brewed cup of coffee. ☕
-- Gym lover. 🏋️🏃‍♂️
-- “Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.” 🏠💻
-<h2></h2>
+<p>Hey there! I'm a web developer with a focus on the MERN stack, which stands for MongoDB, Express.js, React, and Node.js. I'm passionate about creating dynamic, responsive web applications using this powerful technology stack. Although I'm relatively new to the industry, I've spent countless hours practicing my skills and building projects from scratch. From designing intuitive user interfaces to building robust server-side architectures, I'm committed to creating amazing web experiences that users will love. So whether you need help building a full-stack web app or just want to chat about the latest MERN trends, I'm here and ready to dive in!</p>
+
+
+<p>Motivation is unreal. Discipline is real.</p>
+<p>In order to think, you have to risk being offensive.</p>
 
 <div align="center">
 <br>
-<h3>Connect with me:</h3>
-<h4><img width="150" align="center" src="https://user-images.githubusercontent.com/95968602/187915292-ef1ab522-6c7d-46f3-8dd7-13ffbb842b00.jpg"/></h4>
+<hr>
+<h1 align="center">Technologies</h1>
 
-</br>
 <p align="center">
-<a href="https://twitter.com/susakovich90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jasminepvodev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/danijel-susakovich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasminepvo" height="30" width="40" /></a>
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND&color=2b625f&style=plastic&logo=tailwindcss"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=4a935c&style=plastic&logo=node.js"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBFLOW&color=cdd148&style=plastic&logo=webflow"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
 </p>
 
-<hr>
 
-<h3>Languages and Tools:</h3>
-</br>
-<p>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>   </p>
-<hr>
+<h1 align="center">Connect</h1>
 
- <table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <strong> :octocat: I'm proud to be part of these organisations :octocat: </strong><br>
-      <table>
-        <tr>
-          <td align="center">
-           <a href="https://education.github.community/">
-            <img align="center" width="190px" alt="Github Education Community" src="https://education.github.com/assets/campus_program-9372374f8cd435dafb8e725cb67ee73b587af7a9b2f176dfec968afe3b05338c.png" />
-          </td>
-          <td align="center">
-            <a href="https://github.com/EddieHubCommunity">
-            <img align="center" width="190px"  alt="EddieHub Community" src="https://avatars.githubusercontent.com/u/66388388?s=280&v=4" />
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td align="center">
-      <img align="center" width="120%" src="https://github-readme-stats.vercel.app/api?username=susakovich&count_private=true&theme=tokyonight&show_icons=true" />
-    </td>
-  </tr>
-  <tr>
-          <td align="center">
-            <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susakovich&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
-          </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=susakovich&theme=tokyonight">
-    </td>
-  </tr>
-</table>
- 
- 
- 
- 
- 
- 
+
+
+<p align="center">
+  <a href="https://susakovich.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=html5&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/susakovich/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/susakovich_dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=susakovich&show_icons=true&locale=en&layout=compact" alt="susakovich" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=susakovich&show_icons=true&locale=en" alt="susakovich" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susakovich&" alt="susakovich" /></p>
+
+
 <!---
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=susakovich)](https://github.com/anuraghazra/github-readme-stats)
 

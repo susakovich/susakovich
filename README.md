@@ -116,9 +116,8 @@ let location = 'Bosnia and Herzegovina';
       <h3 align="center">Calculator</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="https://user-images.githubusercontent.com/95968602/222171721-14eb0304-6bbf-4d84-bff4-e08a516f0700.gif" width="100%" alt="Matching Cards"/>
         </a>
-        COMING SOON
         <br />
         <p align="center">
           

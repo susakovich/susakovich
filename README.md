@@ -95,13 +95,10 @@ let location = 'Bosnia and Herzegovina';
       <h3 align="center">NASA API</h3>
       <br />
        <a href="https://github.com/susakovich/nasaAPI" target="_blank">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+            <img src="https://user-images.githubusercontent.com/95968602/231397158-25465034-b04c-4eb3-be11-c9faa63f3714.gif" width="100%" alt"Nasa">
         </a>
       <br />
-      ![nasa](https://user-images.githubusercontent.com/95968602/231397158-25465034-b04c-4eb3-be11-c9faa63f3714.gif)
-
-        <p align="center">
-        
+    <p align="center">
   <a href="https://github.com/susakovich/nasaAPI" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>

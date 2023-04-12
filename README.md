@@ -94,7 +94,7 @@ let location = 'Bosnia and Herzegovina';
     <td width="50%" valign="top">
       <h3 align="center">NASA API</h3>
       <br />
-       <a href="https://github.com/susakovich/nasaAPI" target="_blank">
+       <a href="https://susakovich.github.io/nasaAPI" target="_blank">
             <img src="https://user-images.githubusercontent.com/95968602/231397158-25465034-b04c-4eb3-be11-c9faa63f3714.gif" width="100%" alt"Nasa">
         </a>
       <br />

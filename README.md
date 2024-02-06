@@ -3,7 +3,7 @@
 ```js
 const firstName = 'Danijel';
 const lastName = 'Susakovic';
-let location = 'Bosnia and Herzegovina';
+let location = 'Germany';
 ```
 <h2> <img width="350" align="right" src="https://user-images.githubusercontent.com/95968602/187409534-115c1f3e-ad41-4e8d-be6b-69da08cbc4fb.png"/> </h2>
 
